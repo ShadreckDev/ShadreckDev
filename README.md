@@ -1,10 +1,10 @@
  # 💫 About Me:
-🏗️ I'm currently working on: Full-stack web projects and building my developer portfolio.<br>
-👥 I'm looking to collaborate on: Web applications, open-source projects, and projects that solve real-world problems.<br>
-🤝 I'm looking for help with: Improving my backend architecture, databases, and building production-ready applications.<br>
-🌱 I'm currently learning: Node.js, backend development, databases, and preparing to work with React.<br>
-💬 Ask me about: Web development, JavaScript, frontend development, Node.js, and my journey into full-stack development.<br>
-⚡ Fun fact: I’m a self-taught developer who learns by building — I’d rather turn an idea into a working project than just watch tutorials.
+I'm currently working on: Full-stack web projects and building my developer portfolio.<br>
+ I'm looking to collaborate on: Web applications, open-source projects, and projects that solve real-world problems.<br>
+ I'm looking for help with: Improving my backend architecture, databases, and building production-ready applications.<br>
+ I'm currently learning: Node.js, backend development, databases, and preparing to work with React.<br>
+ Ask me about: Web development, JavaScript, frontend development, Node.js, and my journey into full-stack development.<br>
+ Fun fact: I’m a self-taught developer who learns by building — I’d rather turn an idea into a working project than just watch tutorials.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1HDi1ap9YM/)
